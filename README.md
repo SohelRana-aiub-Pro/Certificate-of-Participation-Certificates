@@ -10,5 +10,5 @@ Certificate-of-Participation-Certificates:-
 
 (*); Visionary Leadership and Effective Communication.
 
-    ![Event-0-ULAB-Seminar_Workshop-2017](https://github.com/SohelRana-aiub-Pro/Certificate-of-Participation-Certificates/assets/133596903/ea42e3c4-05b4-427a-80ee-fcc65c391f63)
+ ![Event-0-ULAB-Seminar_Workshop-2017](https://github.com/SohelRana-aiub-Pro/Certificate-of-Participation-Certificates/assets/133596903/ea42e3c4-05b4-427a-80ee-fcc65c391f63)
 
