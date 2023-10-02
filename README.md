@@ -15,4 +15,8 @@ Certificate-of-Participation-Certificates:-
  (*); https://site.ieee.org/sb-udhaka-wie/workshop-hands-on-training-on-microcontrollers/
      ![Event-1-DU-Seminar_Workshop-2018](https://github.com/SohelRana-aiub-Pro/Certificate-of-Participation-Certificates/assets/133596903/f40b31d4-0cf4-4d55-bf23-739f708980c8)
 
+ (*); https://www.aiub.edu/ieee-student-professional-awareness-venture-20
+     ![Event-3-AIUB-Seminar_Workshop-2018](https://github.com/SohelRana-aiub-Pro/Certificate-of-Participation-Certificates/assets/133596903/098b88a9-4066-4320-95c2-f3dd066bd52c)
+
+
 
