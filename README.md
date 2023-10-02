@@ -1,4 +1,4 @@
-Mr. Sohel Rana,Senior Practitioner in BigData and AI Research.
+Mr. Sohel Rana, Senior Practitioner in BigData and AI Research.
 
 https://g.dev/mrsohelrana;
 
