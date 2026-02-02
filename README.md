@@ -1,4 +1,4 @@
-Certificate-of-Participation-Certificates; 
+Certificate-of-Participation-Certificates;  Question about the scen
 
 (*); https://www.ieee.org/membership/index.html
 
